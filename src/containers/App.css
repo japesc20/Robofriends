@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'Wanderism';
+	font-style: normal;
+	font-weight: normal;
+	src: local('WANDERISM'), url('./WANDERISM.ttf') format('truetype');
+}
+
+.title {
+	font-size: 5rem;
+	font-family: 'Wanderism';
+	color: rgba(3, 13, 39, 0.9);
+	letter-spacing: 2px;
+	-webkit-text-stroke: 1px #000000;
+}
